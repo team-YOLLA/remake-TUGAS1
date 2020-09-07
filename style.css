@@ -1,0 +1,207 @@
+#landing{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+}
+
+.icon_bg{
+    height: 150px;
+    width: 180px;
+    /* border: 1px solid black; */
+    background-image: url("../img/f3.png");
+    background-size: cover;
+    background-repeat: none;
+}
+
+.conten_bg{
+    height: 400px;
+    width: 490px;
+    background-image: url("../img/bb1.png");
+    background-size: cover;
+    background-repeat: none;
+    margin-left: 100px;
+     /* border: 1px solid black; */
+}
+
+.conten_bg_left{
+    height: 400px;
+    width: 490px;
+    background-image: url("../img/bb1.png");
+    background-size: cover;
+    background-repeat: none;
+     /* border: 1px solid black; */
+}
+
+#feature{
+    width: 100%;
+    height: 100vh;
+    padding-top: 100px;
+}
+
+#succes{
+    width: 100%;
+    height: 100vh;
+    padding-top: 100px;
+}
+
+#our_plans{
+    width: 100%;
+    height: 100vh;
+    padding: 30px;
+}
+#our_project{
+    width: 100%;
+    height: 100vh;
+    margin-top: 30px;
+    padding-top: 150px;
+}
+
+#powerful{
+    width: 100%;
+    height: 100vh;
+    padding-top: 100px;
+}
+
+#layout{
+    width: 100%;
+    height: 100vh;
+    padding-top: 100px;
+    /* border: 1px solid black; */
+}
+
+#get_in{
+    background-color: rgba(211, 211, 211, 0.3);
+    width: 100%;
+    height: 125vh;
+    clip-path: polygon(0 0, 100% 0%, 100% 89%, 0% 100%);
+}
+
+#logo{
+    height: 20vh;
+    width: 100%;
+}
+
+.pt-100{
+    padding-top: 200px;
+}
+
+#finish{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../img/bg2.jpg");
+    background-size: cover;
+}
+
+.ml-center{
+    margin-left: 300px;
+}
+
+.img-rounded{
+    width: 170px;
+    height: 170px;
+    border-radius: 100px;
+    background-color:rgb(0, 238, 255);
+}
+
+.btn-circle{
+    background-color: #2d017c;
+    color: white;
+    width: 200px;
+    border-radius: 50px;
+    padding: 15px;
+    /* border: 1px solid black; */
+}
+
+.btn-circle:hover{
+    border: 2px solid #2d017c;
+    background-color: #3065ab;  
+    transition: 0.5s;
+}
+
+.btn-white{
+    background-color:turquoise;
+}
+
+.fixed-top{
+    position: fixed;
+}
+form{
+    margin-top: 50px;
+    transition: all 4s ease-in-out ;
+}
+.form-control{
+    width: 600px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+input{
+    height: 45px;
+}
+form .submit{
+    background: rgb(25, 179, 240);
+    border-color: rgb(25, 179, 240);
+    border-radius: 50px;
+    color: #fff;
+    width: 200px;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 50px;
+    margin-top: 20px;
+    transition:1s ;
+}
+form .submit:hover{
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    color: rgb(25, 179, 240);
+    border-color: rgb(25, 179, 240);
+    border-radius: 50px;
+    transition: 1s;
+}
+.contact-form{
+    justify-content: center;
+}
+.owo {
+    color: #fff;
+    margin: 9px 0 0 10px;
+    border: 1px #fff solid;
+    background-color: transparent;
+    border-radius: 50px;
+    transition: 1s;
+}
+.owo:hover{
+    transition: 1s;
+    color: white;
+    background-color: rgb(57, 21, 158);
+}
+.mt-5 text-center:hover{
+    transition: 1s;
+    cursor: pointer;
+    box-shadow:rgba(211, 211, 211, 0.3) ;
+    
+}
+#owo:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition:1s;
+}
+#owo {
+    transition:1s ;
+}
+.anyar{
+    font-style: bold;
+}
+.gg{
+    font-size: 22px;
+    color: rgb(44, 199, 247);
+}
+.gg:hover{
+    color:rgb(44, 199, 247) ;
+    font-style: none;
+}
+
